@@ -2,7 +2,7 @@
 This is a simple bulk emailer application that allows you to send emails to multiple recipients at once. You can upload a CSV file as a database containing the list of recipients, filter them based on college and role, and customize the email subject, prefix, and body. You can also attach a PDF file as an attachment to the emails.
 
 ## How to Use
-1. Enter your email address and app password: Start by entering your email address and app password in the respective text input fields. If you don't have an app password, you can follow this ![link](https://support.google.com/mail/answer/185833?hl=en) to learn how to generate one.
+1. Enter your email address and app password: Start by entering your email address and app password in the respective text input fields. If you don't have an app password, you can follow this [link](https://support.google.com/mail/answer/185833?hl=en) to learn how to generate one.
 
 2. Upload Database (CSV): Click on the "Choose File" button to upload a CSV file containing the list of recipients. The CSV file should have columns for 'college', 'role', 'first_name', 'last_name', and 'email_id'.
 
