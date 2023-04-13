@@ -24,4 +24,4 @@ That's it! You can use this bulk emailer application to send emails to multiple 
 
 ## Demo
 
-![](https://github.com/parvashah-create/personalized-bulk-mailer/blob/main/bulk-mailer.gif)
+![Demo](https://github.com/parvashah-create/personalized-bulk-mailer/blob/main/bulk-mailer.gif)
