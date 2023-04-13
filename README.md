@@ -1,5 +1,5 @@
 # Bulk Emailer 📬
-This is a simple bulk emailer application that allows you to send emails to multiple recipients at once. You can upload a CSV file as a database containing the list of recipients, filter them based on college and role, and customize the email subject, prefix, and body. You can also attach a PDF file as an attachment to the emails.
+This is a simple bulk emailer application that allows you to send emails to multiple recipients at once. You can upload a CSV file as a database containing the list of recipients, filter them based on college and role, and customize the email subject, prefix, and body. You can also attach a PDF file as an attachment to the emails. [link for the app](https://parvashah-create-personalized-bulk-mailer-app-f0asht.streamlit.app/)
 
 ## How to Use
 1. Enter your email address and app password: Start by entering your email address and app password in the respective text input fields. If you don't have an app password, you can follow this [link](https://support.google.com/mail/answer/185833?hl=en) to learn how to generate one.
