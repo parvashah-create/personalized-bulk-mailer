@@ -23,3 +23,5 @@ Note: Please make sure to double-check all the email details and recipients befo
 That's it! You can use this bulk emailer application to send emails to multiple recipients quickly and easily. Happy emailing! 📧😊
 
 ## Demo
+
+![](https://github.com/parvashah-create/personalized-bulk-mailer/blob/main/bulk-mailer.gif)
